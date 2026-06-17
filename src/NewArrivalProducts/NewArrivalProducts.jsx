@@ -3,7 +3,7 @@ import "./NewArrivalProducts.css"
 import useProducts from "../hooks/useProducts";
 import ProductCard from "./ProductCard";
 
-// es6 
+// es6  jdjkfkd
 // spread Method,Destructuring,Map Method,1. Block-Scoped Declarations (let and const),Arrow Function,Template Literals
 const NewArrivalProducts = () => {
   const products = useProducts();
