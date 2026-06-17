@@ -1,0 +1,16 @@
+.banner {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 90%;
+    margin: 0 auto;
+    border-radius: 10px;
+    height: 60px;
+    background-color: #000000;
+    color: white;
+    margin-bottom: 5px;
+}
+
+.banner h2 {
+    font-size: 20px;                                
+}

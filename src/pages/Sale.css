@@ -1,0 +1,14 @@
+.top-sale {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 900px;
+  margin: 2rem auto;
+  padding-left: 1.5rem;
+}
+.top-sale h1 {
+  width: 346px;
+  height: 58px;
+  font-size: 48px;
+  font-family: bold;
+}
